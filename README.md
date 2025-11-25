@@ -30,6 +30,8 @@
 - Writing code since the **1980s** — that’s over four decades of experience.  
 - Equally at home in **low-level assembly** and **modern cloud-native stacks**.
 - Very good at billiards ... let's play! 🎱
+- I own a fish farm in Thailand 🐟🐟🐟🐟🐟🐟
+- I have been to 5 of 7 continents, 17 countries, (in the USA) 47 of 50 states and over 30 national parks. 🧳🗺️📍
 
 ---
 
