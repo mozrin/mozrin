@@ -28,7 +28,8 @@
 ## 🏆 Fun Facts
 - Contributor to the **GitHub Arctic Code Vault**.  
 - Writing code since the **1980s** — that’s over four decades of experience.  
-- Equally at home in **low-level assembly** and **modern cloud-native stacks**.  
+- Equally at home in **low-level assembly** and **modern cloud-native stacks**.
+- Very good at billiards ... let's play! 🎱
 
 ---
 
@@ -37,5 +38,6 @@
 - Email: [mozrin@gmail.com](mailto:mozrin@gmail.com)  
 - Resume: [resumes.mozrin.com](http://resumes.mozrin.com)  
 - Moztopia Enterprises: [@moztopia](https://github.com/moztopia)  
+- Personal Website: [www.mozrin.com](https://www.mozrin.com)  
 
 ---
