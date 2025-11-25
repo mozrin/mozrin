@@ -41,3 +41,6 @@
 - Personal Website: [www.mozrin.com](https://www.mozrin.com)  
 
 ---
+
+"Boy, if you don't have time to do it right, what make you think you have time to do it twice?"
+    --- Daddy
