@@ -12,7 +12,7 @@
 - 📓 **Lotus Notes** — Joined Lotus Consulting, later absorbed into IBM.  
 - 💼 **IBM Years** — Continued consulting until branching out independently.  
 - 🚀 **Private Consulting Firm** — Founded my own practice 23 years ago, serving global clients.  
-- 🌐 **Modern Stacks** — Expert in **Laravel, Flutter/Dart, VueJS, React**, and more.  
+- 🌐 **Modern Stacks** — Expert in **Laravel, Flutter/Dart, VueJS, Daravel, React**, and more.  
 
 ---
 
