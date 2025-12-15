@@ -4,6 +4,12 @@
 
 ---
 
+## Right Now!
+
+Right now I am (retired) working on a experimental project using agenic coders and the idea of an MMORPG that is a 200 phase project. Follow along for all of the exciting twists and turns. Who knows what will happen.
+
+[Grimreach Documentation](https://github.com/mozrin/grimreach_docs)
+
 ## 🕰️ My Coding Journey
 - 🕹️ **1980s** — Wrote commercial software for the **Commodore VIC-20**.  
 - 💾 **DOS & Windows Era** — Built with **FoxPro, C, C++, MASM, Clipper, dBase**, and more.  
