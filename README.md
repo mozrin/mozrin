@@ -6,9 +6,11 @@
 
 ## Right Now!
 
-Right now I am (retired) working on a experimental project using agenic coders and the idea of an MMORPG that is a 200 phase project. Follow along for all of the exciting twists and turns. Who knows what will happen.
+Right now I am (retired) working on:
+- a experimental project using agenic coders and the idea of an MMORPG that is a 200 phase project. Follow along for all of the exciting twists and turns. Who knows what will happen.
 
-[Grimreach Documentation](https://github.com/mozrin/grimreach_docs)
+  [Grimreach Documentation](https://github.com/mozrin/grimreach_docs)
+- a series of private mobile game applications using Dart/Flutter.
 
 ## 🕰️ My Coding Journey
 - 🕹️ **1980s** — Wrote commercial software for the **Commodore VIC-20**.  
