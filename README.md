@@ -6,11 +6,21 @@
 
 ## Right Now!
 
-Right now I am (retired) working on:
+Right now I am (retired) working several private projects and these public ones:
+- autonomous agent development project [moz-os](https://github.com/mozrin/moz-os.git) is a human architected and ai agent developed self-contained operating system.
 - a experimental project using agenic coders and the idea of an MMORPG that is a 200 phase project. Follow along for all of the exciting twists and turns. Who knows what will happen.
 
+  [Grimreach Client](https://github.com/mozrin/grimreach_client)
+  
+  [Grimreach Server](https://github.com/mozrin/grimreach_server)
+  
+  [Grimreach API](https://github.com/mozrin/grimreach_api)
+  
+  [Grimreach Census](https://github.com/mozrin/grimreach_census)
+  
   [Grimreach Documentation](https://github.com/mozrin/grimreach_docs)
-- a series of private mobile game applications using Dart/Flutter.
+  
+  [Grimreach Assets](https://github.com/mozrin/grimreach_assets)
 
 ## 🕰️ My Coding Journey
 - 🕹️ **1980s** — Wrote commercial software for the **Commodore VIC-20**.  
