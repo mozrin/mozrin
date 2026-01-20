@@ -31,7 +31,7 @@ Right now I am working on a private commerical project and have temporarily tabl
 - 📓 **Lotus Notes** — Joined Lotus Consulting, later absorbed into IBM.  
 - 💼 **IBM Years** — Continued consulting until branching out independently.  
 - 🚀 **Private Consulting Firm** — Founded my own practice 23 years ago, serving global clients.  
-- 🌐 **Modern Stacks** — Expert in **Laravel, Flutter/Dart, VueJS, Daravel, React**, and more.  
+- 🌐 **Modern Stacks** — Expert in **Laravel, Flutter/Dart, PHP, Python**, and others that I hate like **React** and **NextJS**.
 
 ---
 
@@ -40,7 +40,7 @@ Right now I am working on a private commerical project and have temporarily tabl
 - Can be **coaxed away** from pet projects for opportunities that:  
   - Teach me something new  
   - Allow me to teach others  
-- Not driven by money — driven by **learning and sharing knowledge**.  
+- Not driven by money — driven by **teaching, learning, and sharing knowledge**.  
 
 ---
 
