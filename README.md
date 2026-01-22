@@ -28,7 +28,7 @@ Right now I am working on a private commerical project and have temporarily tabl
   [Grimreach Assets](https://github.com/mozrin/grimreach_assets)
 
 ## 🕰️ My Journey
-- 🐴 **1970s** - I grew up on a small cattle ranch in Oklahoma and learned to be a farmer. (ask me about my Daddy)
+- 🐴 **1970s** - I grew up on a small cattle ranch in Oklahoma and learned to be a farmer. (ask me about my family)
 - 🕹️ **1980s** — Wrote commercial software for the **Commodore VIC-20**.
 - 💾 **DOS & Windows Era** — Built with **FoxPro, C, C++, MASM, Clipper, dBase**, and more.
 - 🏢 **IBM World** — Co-authored a product in **IBM Basic Compiler 1.0**, deployed to hundreds of businesses.
