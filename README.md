@@ -4,16 +4,6 @@
 
 ---
 
-## Random Unrelated Commentary and Thoughts
-
-### February 2026
-- The MRT is superior to the BTS. Fight me! 😂 (Only because the MRT let's me swipe my visa/atm card)
-- I love walking around in Bangkok. Most people here find it a pain in the ass, but so far I love this city.
-- This daily workout is hurting my feet. I need new shoes. 😂
-
-### January 2026
-- I have been considering getting back into teaching here in Thailand. I would love to teach English, Math, or Science ... maybe 😂
-
 ## Current Projects and Plans
 
 Right now I am working on a private commerical project and have temporarily tabled these public/fun ones:
@@ -67,7 +57,7 @@ Right now I am working on a private commerical project and have temporarily tabl
 - I have been to 5 of 7 continents, 17 countries, (in the USA) 47 of 50 states and over 30 national parks. 🧳🗺️
 - I have an apartment/home laboratory in Bangkok, Thailand.📍
 - When I am not travelling, I can be found at my home in Oklahoma.📍
-- I own six cows that are basically pets and/or glorified lawnmowers 🐄🐄🐄🐄🐄🐄
+- We have six cows that are basically pets and/or glorified lawnmowers 🐄🐄🐄🐄🐄🐄
 
 ---
 
@@ -80,5 +70,21 @@ Right now I am working on a private commerical project and have temporarily tabl
 
 ---
 
-"Boy, if you don't have time to do it right, what make you think you have time to do it twice?"
-    --- Daddy
+## Random Unrelated Commentary and Thoughts
+
+### February 2026
+- I just realized .. besides the six cows, we also have 8 cats, 14 dogs, 1 rabbit, dozens of chickens, and thousands of tilapia and catfish. We are close to the temple and strays wander up all the time because (I guess) we feed them better. It also means I am spaying or neutering a cat or dog every few weeks. 🙄 Anyone need a cat? dog? fish? chicken?
+- The MRT is superior to the BTS. Fight me! 😂 (Only because the MRT let's me swipe my visa/atm card)
+- I love walking around in Bangkok. Most people here find it a pain in the ass, but so far I love this city.
+- This daily workout is hurting my feet. I need new shoes. 😂
+
+### January 2026
+- I have been considering getting back into teaching here in Thailand. I would love to teach English, Math, or Science ... maybe 😂
+
+---
+
+## My Favorite Quotes
+
+- "Boy, if you don't have time to do it right, what make you think you have time to do it twice?" — Daddy
+
+- “Forgiveness is unlocking the door to set someone free and realising you were the prisoner!” — Max Lucado
