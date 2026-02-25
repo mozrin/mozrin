@@ -6,11 +6,13 @@
 
 ## Random Unrelated Commentary and Thoughts
 
-(February 2026) The MRT is superior to the BTS. Fight me! 😂 (Only because the MRT let's me swipe my visa/atm card)
-(February 2026) I love walking around in Bangkok. Most people here find it a pain in the ass, but so far I love this city.
-(February 2026) This daily workout is hurting my feet. I need new shoes. 😂
+### February 2026
+- The MRT is superior to the BTS. Fight me! 😂 (Only because the MRT let's me swipe my visa/atm card)
+- I love walking around in Bangkok. Most people here find it a pain in the ass, but so far I love this city.
+- This daily workout is hurting my feet. I need new shoes. 😂
 
-(January 2026) I have been considering getting back into teaching here in Thailand. I would love to teach English, Math, or Science ... maybe 😂
+### January 2026
+- I have been considering getting back into teaching here in Thailand. I would love to teach English, Math, or Science ... maybe 😂
 
 ## Current Projects and Plans
 
