@@ -1,6 +1,6 @@
 # 👋 Hi, I'm James Hunter (@mozrin)
 
-> "An anomaly in the coding world — from the VIC-20 to Laravel 12, Dart, Flutter, C, Python, and more."
+> "An anomaly in the coding world — commercially from the VIC-20 to Laravel 12, Dart, Flutter, C, Python, and more."
 
 ---
 
