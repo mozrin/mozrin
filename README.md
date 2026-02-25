@@ -11,6 +11,7 @@ I have been thinking about getting back into teaching here in Thailand. I would 
 ## Current Projects and Plans
 
 Right now I am working on a private commerical project and have temporarily tabled these public/fun ones:
+- (February 2026) I am living in Bangkok working on some personal projects. Currently looking for something to code. Open to almost any project that is interesting.
 - (January 2026) I am back from a six day vacation where I got engaged! I am very excited. Currently I have tabled the personal projects and am working on a Dart/Flutter/Laravel application for a client.
 - autonomous agent development project [moz-os](https://github.com/mozrin/moz-os.git) is a human architected and ai agent developed self-contained operating system.
 - a experimental project using agenic coders and the idea of an MMORPG that is a 200 phase project. Follow along for all of the exciting twists and turns. Who knows what will happen.
