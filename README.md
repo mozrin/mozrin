@@ -72,6 +72,13 @@ Right now I am working on a private commerical project and have temporarily tabl
 
 ## Random Unrelated Commentary and Thoughts
 
+### Gap Explanations
+
+There are a couple of gaps in my coding timeline that I want to address. The first large gap is associated with my farm and a new restaurant venture. I simply did not have time to do anything else besides these two things. The second smaller gap is the opening of the home/lab in Bangkok and the logistics of shipping furniture and computers; and the need to activate services like electricity and internet. All is well now!
+
+- <img width="225" height="120" alt="image" src="https://github.com/user-attachments/assets/6810ed8d-60d0-4e3d-97f3-807b858a76f8" />
+- <img width="76" height="119" alt="image" src="https://github.com/user-attachments/assets/a878a5f3-5266-49d9-bf18-c62c7989aed9" />
+
 ### February 2026
 - I just realized .. besides the six cows, we also have 8 cats, 14 dogs, 1 rabbit, dozens of chickens, and thousands of tilapia and catfish. We are close to the temple and strays wander up all the time because (I guess) we feed them better. It also means I am spaying or neutering a cat or dog every few weeks. 🙄 Anyone need a cat? dog? fish? chicken?
 - The MRT is superior to the BTS. Fight me! 😂 (Only because the MRT let's me swipe my visa/atm card)
