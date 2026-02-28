@@ -95,3 +95,5 @@ There are a couple of gaps in my coding timeline that I want to address. The fir
 - "Boy, if you don't have time to do it right, what make you think you have time to do it twice?" — Daddy
 
 - “Forgiveness is unlocking the door to set someone free and realising you were the prisoner!” — Max Lucado
+
+- "Never take your hand off a door while it is still moving." — Me
