@@ -6,22 +6,10 @@
 
 ## Current Projects and Plans
 
-Right now I am working on a private commerical project and have temporarily tabled these public/fun ones:
+Projects and experiments I share here:
 - (February 2026) I am living in Bangkok working on some personal projects. Currently looking for something to code. Open to almost any project that is interesting.
 - autonomous agent development project [moz-os](https://github.com/mozrin/moz-os.git) is a human architected and ai agent developed self-contained operating system.
-- a experimental project using agenic coders and the idea of an MMORPG that is a 200 phase project. Follow along for all of the exciting twists and turns. Who knows what will happen.
-
-  [Grimreach Client](https://github.com/mozrin/grimreach_client)
-  
-  [Grimreach Server](https://github.com/mozrin/grimreach_server)
-  
-  [Grimreach API](https://github.com/mozrin/grimreach_api)
-  
-  [Grimreach Census](https://github.com/mozrin/grimreach_census)
-  
-  [Grimreach Documentation](https://github.com/mozrin/grimreach_docs)
-  
-  [Grimreach Assets](https://github.com/mozrin/grimreach_assets)
+- [Grimreach](https://github.com/mozrin/grimreach) is my public fantasy-world monorepo: a native Godot client, an authoritative Go server, and a separate analytics client. Read the [wiki](https://github.com/mozrin/grimreach/wiki), fork it, or propose an idea through an issue.
 
 ## 🕰️ My Journey
 - 🐴 **1970s** - I grew up on a small cattle ranch in Oklahoma and learned to be a farmer. (ask me about my family)
